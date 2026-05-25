@@ -23,7 +23,7 @@
     "preview": "vite preview",
     "prepare": "svelte-kit sync || echo ''",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-    "deploy": "bun run build && wrangler pages deploy .svelte-kit/cloudflare --project-name=llm-latency"
+    "deploy": "bun run build && CLOUDFLARE_ACCOUNT_ID=7097d2b93ac27242493b5371df09e1ae wrangler pages deploy"
   },
   "type": "module"
 }
