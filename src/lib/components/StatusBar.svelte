@@ -36,7 +36,7 @@
 		</span>
 		<span class="text-amber-dim">│</span>
 		<a
-			href="https://www.skcript.com"
+			href="https://www.skcript.com/research"
 			target="_blank"
 			rel="noopener"
 			class="flex items-center gap-1.5 text-amber-dim hover:text-amber-bright"

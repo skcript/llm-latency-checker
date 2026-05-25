@@ -1,6 +1,6 @@
 # LLM Latency Dashboard
 
-> A project from the **[R&E (Research & Engineering) Group](https://www.skcript.com)** at **[Skcript](https://www.skcript.com)**.
+> A project from the **[R&E (Research & Engineering) Group](https://www.skcript.com/research)** at **[Skcript](https://www.skcript.com)**.
 
 A client-only dashboard that measures how fast LLMs respond — **total latency**, **time-to-first-token (TTFT)**, and **tokens/sec** — bucketed by **hour of day**, so you can see how response times shift across day and night.
 
@@ -63,4 +63,4 @@ SvelteKit 5 · Tailwind 4 · `@sveltejs/adapter-cloudflare` · Bun. Amber-CRT TU
 
 ## License
 
-MIT — see [LICENSE](./LICENSE). From the R&E Group at [Skcript](https://www.skcript.com).
+MIT — see [LICENSE](./LICENSE). From the [R&E Group](https://www.skcript.com/research) at [Skcript](https://www.skcript.com).
