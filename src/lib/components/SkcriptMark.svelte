@@ -1,0 +1,17 @@
+<script lang="ts">
+	// Skcript logomark — sourced from skcript-website (src/lib/components/brand/Logomark.svelte).
+	let { class: className = '' }: { class?: string } = $props();
+</script>
+
+<svg
+	viewBox="0 0 90 90"
+	xmlns="http://www.w3.org/2000/svg"
+	class={className}
+	aria-label="Skcript"
+	role="img"
+	fill="currentColor"
+>
+	<polygon
+		points="48.4328038 2.21594101 0 33.6631367 7.81335399 56.4622217 34.9901837 51.5716159 11.4369379 67.0357096 19.3069093 90 42.5426379 87.0433635 90 55.8412313 82.1300286 32.8769383 57.4345547 37.6315668 78.6479902 22.7164757 70.8629483 0"
+	/>
+</svg>
